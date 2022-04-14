@@ -108,3 +108,14 @@ curl http://localhost:9092/kapacitor/v1/ping -v
 * Connection #0 to host localhost left intact
 ```
 ![1](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/hw10.2/main/assets/1021.png)
+
+### Ответ на вопрос 4
+
+Скриншот с отображением метрик утилизации места на диске  
+![2](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/hw10.2/main/assets/1022.png)
+
+### Ответ на вопрос 5
+
+Метрики, связанные с docker  
+![3](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/hw10.2/main/assets/1023.png)
+
