@@ -118,4 +118,3 @@ curl http://localhost:9092/kapacitor/v1/ping -v
 
 Метрики, связанные с docker  
 ![3](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/hw10.2/main/assets/1023.png)
-
