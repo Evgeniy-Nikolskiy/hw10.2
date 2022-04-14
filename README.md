@@ -25,9 +25,8 @@ Push агенты изначально защищены от удаленных 
 
 Опросщик может запросить любую метрику в любое время.
 
-Prometheus - Гибридная
-TICK - PUSH
-Zabbix - Гибридная
-VictoriaMetrics - PUSH
-Nagios - PULL
-
+Prometheus - Гибридная  
+TICK - PUSH  
+Zabbix - Гибридная  
+VictoriaMetrics - PUSH  
+Nagios - PULL  
