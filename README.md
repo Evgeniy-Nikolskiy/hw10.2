@@ -107,3 +107,4 @@ curl http://localhost:9092/kapacitor/v1/ping -v
 < 
 * Connection #0 to host localhost left intact
 ```
+![1](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/hw10.2/main/assets/1021.png)
